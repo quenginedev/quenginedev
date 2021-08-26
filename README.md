@@ -23,17 +23,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=quenginedev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aximilis's GitHub Stats" />
   </a>
   
-  <a href="https://github.com/quenginedev/quenginedev">
+  <a href="https://github.com/quenginedev/hami-express">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quenginedev&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
   <a href="https://github.com/quenginedev/tech-meetup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=tech-meetup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=reGQL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
 
 
   <a href="https://github.com/quenginedev/medstore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=medstore&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=hami-express&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>    
 
 ## 🤔 Currently?
