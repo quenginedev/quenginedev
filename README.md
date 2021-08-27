@@ -29,12 +29,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quenginedev&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-  <a href="https://github.com/quenginedev/tech-meetup">
+  <a href="https://github.com/quenginedev/reGQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=reGQL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
 
 
-  <a href="https://github.com/quenginedev/medstore">
+  <a href="https://github.com/quenginedev/hami-express">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=hami-express&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>    
 
