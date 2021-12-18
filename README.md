@@ -41,7 +41,7 @@
 ## 🤔 Currently?
 
 - 🔭 I’m currently working on Facility Management
-- 🌱 I’m currently learning Golang & Flutter
+- 🌱 I’m currently learning Golang & Rust
 - 👯 I’m looking to collaborate on any good OpenSource projects
 - 🤔 I’m looking for help with Hami-express
 - 📫 How to reach me: +233506960917
