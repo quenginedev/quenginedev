@@ -1,6 +1,6 @@
-### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <a href="https://app.daily.dev/quenginedev"><img src="https://api.daily.dev/devcards/e2776810e4914d439544ba961bbb168b.png?r=3b8" width="400" alt="Ernest Hayford's Dev Card"/></a>
+
+### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
