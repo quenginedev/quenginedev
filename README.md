@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/quenginedev"><img src="https://github.com/quenginedev/quenginedev/blob/main/devcard.svg" width="200" alt="Ernest Hayford's Dev Card"/></a>
+<a href="https://app.daily.dev/quenginedev"><img src="https://github.com/quenginedev/quenginedev/blob/main/devcard.svg" width="400" alt="Ernest Hayford's Dev Card"/></a>
 
 ### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
