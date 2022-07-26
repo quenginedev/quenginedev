@@ -1,7 +1,11 @@
-<a href="https://app.daily.dev/quenginedev"><img src="https://github.com/quenginedev/quenginedev/blob/main/devcard.svg" alt="Ernest Hayford's Dev Card"/></a>
-
 ### Hi there  
-<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> -->
+<div align="center" justify="between">
+  <img src="https://github.com/quenginedev/quenginedev/blob/main/devcard.svg" width="49%" alt="Ernest Hayford's Dev Card"/>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="72px">
+<div>
+<!-- <a href="https://app.daily.dev/quenginedev"> -->
+<!--  </a> -->
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -30,7 +34,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=quenginedev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Quenginedev's GitHub Stats" />
   </a>
   
-  <a href="https://github.com/quenginedev/hami-express">
+  <a href="https://github.com/quenginedev?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quenginedev&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
@@ -39,8 +43,8 @@
   </a>
 
 
-  <a href="https://github.com/quenginedev/hami-express">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=hami-express&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <a href="https://github.com/quenginedev/svelteuse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=svelte-use&title_color=ffffff&text_color=c9cacc&icon_color=ff3e00&bg_color=1d1f21" />
   </a>    
 
 ## 🤔 Currently?
