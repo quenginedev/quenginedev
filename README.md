@@ -45,9 +45,9 @@
 
 ## 🤔 Currently?
 
-- 🔭 I’m currently working on Facility Management
-- 🌱 I’m currently learning Golang & Rust
+- 🔭 I’m currently working on scalable automation
+- 🌱 I’m currently learning Svelte, Golang & Rust
 - 👯 I’m looking to collaborate on any good OpenSource projects
-- 🤔 I’m looking for help with Hami-express
+- 🤔 I’m looking for help with Svelte-Use
 - 📫 How to reach me: +233506960917
-- ⚡ Fun fact: Am an avid swimmer and video gammer.
+- ⚡ Fun fact: I like sight seeing and experiencing new cultures.
