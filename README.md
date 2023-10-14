@@ -1,7 +1,7 @@
 ### Hi there  
 <div align="center" justify="between">
   <img src="https://github.com/quenginedev/quenginedev/blob/main/devcard.svg" width="49%" alt="Ernest Hayford's Dev Card"/>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="72px">
+<!--   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="72px"> -->
 <div>
 <!-- <a href="https://app.daily.dev/quenginedev"> -->
 <!--  </a> -->
@@ -43,15 +43,14 @@
   </a>
 
 
-  <a href="https://github.com/quenginedev/svelteuse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=svelte-use&title_color=ffffff&text_color=c9cacc&icon_color=ff3e00&bg_color=1d1f21" />
+  <a href="https://github.com/quenginedev/my-autofill-core">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=my-autofill-core&title_color=ffffff&text_color=c9cacc&icon_color=ff3e00&bg_color=1d1f21" />
   </a>    
 
 ## 🤔 Currently?
 
-- 🔭 I’m currently working on scalable automation
-- 🌱 I’m currently learning Svelte, Golang & Rust
-- 👯 I’m looking to collaborate on any good OpenSource projects
-- 🤔 I’m looking for help with Svelte-Use
+- 🔭 I’m currently working on scalable automation services
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me: +233506960917
 - ⚡ Fun fact: I like sight seeing and experiencing new cultures.
