@@ -27,17 +27,11 @@
 
 
 ## &#x1f4c8; GitHub Stats
-
-
-
-  <a href="https://github.com/quenginedev/quenginedev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quenginedev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Quenginedev's GitHub Stats" />
-  </a>
   
   <a href="https://github.com/quenginedev?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quenginedev&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+<div>
   <a href="https://github.com/quenginedev/reGQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=reGQL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
@@ -46,7 +40,7 @@
   <a href="https://github.com/quenginedev/my-autofill-core">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=my-autofill-core&title_color=ffffff&text_color=c9cacc&icon_color=ff3e00&bg_color=1d1f21" />
   </a>    
-
+</div>
 ## 🤔 Currently?
 
 - 🔭 I’m currently working on scalable automation services
